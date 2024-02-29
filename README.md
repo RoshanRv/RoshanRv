@@ -1,4 +1,4 @@
-<img align="center" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
+<img align="center" style="margin:auto" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
