@@ -11,7 +11,7 @@
 
 - 📫 How to reach me <a href="mailto:nkroshankumar@gmail.com"> **nkroshankumar@gmail.com**</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17qKn0MhnzwkKTorr6CKfXJ3-BozsJ7K4/view](https://drive.google.com/file/d/17qKn0MhnzwkKTorr6CKfXJ3-BozsJ7K4/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/187eydk-3TcQaSBX5rB3PBMRtrGXJIaRI/view](https://drive.google.com/file/d/187eydk-3TcQaSBX5rB3PBMRtrGXJIaRI/view)
 
 
 <h3 align="left">Connect with me:</h3>
